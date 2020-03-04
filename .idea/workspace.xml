@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4aef6c33-45f2-481f-bb6d-cc21f114e6e8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectId" id="1YECLZ5YeKFtaAAlJs9u6fBkQcI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../TodoMVC-React" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 2019.3.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4aef6c33-45f2-481f-bb6d-cc21f114e6e8" name="Default Changelist" comment="" />
+      <created>1582498311152</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582498311152</updated>
+      <workItem from="1582498313193" duration="6630000" />
+      <workItem from="1582535765994" duration="3237000" />
+      <workItem from="1582557009855" duration="686000" />
+      <workItem from="1582567243086" duration="11926000" />
+      <workItem from="1582626535160" duration="10702000" />
+      <workItem from="1582671176142" duration="5286000" />
+      <workItem from="1582742271763" duration="3948000" />
+      <workItem from="1582788573487" duration="591000" />
+      <workItem from="1582809189817" duration="3370000" />
+      <workItem from="1582831751641" duration="1196000" />
+      <workItem from="1582888241525" duration="3519000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="23" key="#ESLint" timestamp="1582572724549">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="23" key="#ESLint/0.0.1366.728@0.0.1366.728" timestamp="1582572724549" />
+    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1582923218812">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="276" key="FileChooserDialogImpl/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1582923218812" />
+    <state x="656" y="252" width="737" height="606" key="find.popup" timestamp="1582746184699">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="252" width="737" height="606" key="find.popup/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1582746184699" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1582640735772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1582640735772" />
+  </component>
+</project>
